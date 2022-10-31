@@ -1,0 +1,12 @@
+.nav-bar{
+    display: flex;
+    height: 70px;
+    background-color: aquamarine;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-bar_icon{
+    align-items: center;
+}
+
