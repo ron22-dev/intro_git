@@ -1,0 +1,13 @@
+.nav-bar{
+    display: flex;
+    height: 70px;
+    background-color: gray;
+    align-items: center;
+    justify-content: space-between;
+    &__left{
+        display: flex;
+        align-items: center;
+    }
+    &__right{
+    }
+}
